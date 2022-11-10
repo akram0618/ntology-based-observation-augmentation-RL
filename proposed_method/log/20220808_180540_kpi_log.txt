@@ -1,0 +1,33 @@
+sim_step,0.0
+sim_time,0.0
+dt,483.16142527999995
+dt_real_time,0.54599044
+valid_actions,98.296
+total_reward,80.09480312000001
+machines_working,0.712252459745346
+machines_changeover,0.0
+machines_broken,0.1843888697796649
+machines_idle,0.10335830927111384
+processed_orders,49.784
+transp_working,0.6347474707881267
+transp_walking,0.3308903298238097
+transp_handling,0.30385714300015565
+transp_idle,0.36525252921187346
+machines_total,0.99962104
+selected_idle,0.0
+forced_idle,0.0
+threshold_waiting,1.268
+finished_orders,49.784
+order_waiting_time,396.15657493491886
+alpha,1.0785277508838549
+inventory,49.241212791098185
+
+
+Orders
+##########################
+Finished orders:  30137
+Prefilled orders:  
+Average order cycle time:  445.19175666374923
+Tardiness orders :  728
+Total waiting time orders :  11628829.767663505
+##########################
